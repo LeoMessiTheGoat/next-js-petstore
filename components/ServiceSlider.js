@@ -12,19 +12,19 @@ const services = [
   {
     image: Service1Icon,
     name: 'Pharmacy',
-    description: 'Lorem ipsum, dolor sit amet consectetur adipsicing elit. Veritatis dicta, modi voluptate dolorum eaque quisquam quaerat cumque? Libero, accusamus corporis?',
+    description: `Welcome to Pet-First, where your pet's health and well-being take center stage. Our dedicated Pharmacy Section is your one-stop destination for comprehensive pharmaceutical solutions tailored to meet the unique needs of your beloved furry companions.`,
     btnText: 'Explore'
   },
   {
     image: Service2Icon,
     name: 'Breed-specific Haircuts',
-    description: 'Lorem ipsum, dolor sit amet consectetur adipsicing elit. Veritatis dicta, modi voluptate dolorum eaque quisquam quaerat cumque? Libero, accusamus corporis?',
+    description: 'At Pet-First, we understand that every breed is unique, and their grooming needs are as diverse as their personalities. Our Breed-Specific Haircuts service is designed to celebrate the distinct characteristics and charm of each breed while enhancing their comfort and style.',
     btnText: 'Explore'
   },
   {
     image: Service3Icon,
     name: 'Clothes',
-    description: 'Lorem ipsum, dolor sit amet consectetur adipsicing elit. Veritatis dicta, modi voluptate dolorum eaque quisquam quaerat cumque? Libero, accusamus corporis?',
+    description: 'Welcome to Pet-First, where fashion meets fur! Our curated collection of pet clothing is designed to transform your furry friend into a trendsetting sensation. We believe that pets deserve to strut their stuff in style, which is why we offer a diverse range of clothing that is as comfortable as it is fashionable.',
     btnText: 'Explore'
   },
 ];

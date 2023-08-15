@@ -14,7 +14,7 @@ const Adoption = () => {
         <div className='flex-1 text-cream text-center max-w-md lg:text-left lg:max-w-none'>
           <h2 className='h2 mb-6'>Making pet parenting easy for everyone</h2>
           <p className='mb-6'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          We understand that each pet is unique, and every pet parent's needs are diverse. Whether you're a first-time pet owner or a seasoned enthusiast, our mission is to provide guidance, insights, and solutions that cater to your specific circumstances. From basic care essentials to expert advice on training, grooming, nutrition, and health, we've curated a collection of information that will help you navigate the rewarding world of pet companionship with confidence.
           </p>
           <ul className='mb-[38px] flex flex-col gap-y-4 lg:list-disc lg:pl-4'>
             <li>Adoption</li>
